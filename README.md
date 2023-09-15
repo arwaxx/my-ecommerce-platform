@@ -1,6 +1,6 @@
 # My E-Commerce Platform
 
-Welcome to the **My E-Commerce Platform** repository! This is a full-stack e-commerce application that provides various services to manage an online store. The repository consists of three main services: **Database Service**, **Notification Service**, and **Order Service**.
+Welcome to the **My E-Commerce Platform** repository! This is an e-commerce application that provides various services to manage an online store. The repository consists of three main services: **Database Service**, **Notification Service**, and **Order Service**.
 
 ## Database Service
 
